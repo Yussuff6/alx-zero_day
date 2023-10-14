@@ -1,1 +1,2 @@
-README
+// deleted js directory 
+
